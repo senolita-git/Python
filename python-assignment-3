@@ -1,0 +1,39 @@
+number = input("Please enter a number: ")
+list = [2,3,4,5,6,7,8,9]
+count = 0
+for i in list:
+  if not int(number)%int(i) == 0:
+    count +=1
+    if count == 8:
+      print("Number is a prime number")
+  else : 
+    print("Number is not a prime number")
+    break
+
+  
+  
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+python-assignment-3 [unix] (02:59 01/01/1970)                          0,0-1 All
+-- VISUAL BLOCK --                                                   1x1
+
